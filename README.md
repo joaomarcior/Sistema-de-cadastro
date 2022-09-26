@@ -2,7 +2,7 @@
 
 >Status do Projeto: Em desenvolvimento
 
->Para rodar este projeoto na sua máquina, por favor digite:
+>Para rodar este projeto na sua máquina, por favor digite:
 
 ```
 mpb install react 
